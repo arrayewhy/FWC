@@ -40,15 +40,3 @@ i++;
 4. This is the end of a single repeatition, where it does what we tell it to between the curly braces. In this case, it prints out "CUCUMBER!" to the console.
 
 It then does all this again but now starting from step 2. When does it stop doing this; when _i_ is not less than 5!
-
-## 2. While Loop
-```
-int i = 0;
-
-while (i < 5)
-{
-    print ("CUCUMBER!");
-    i++;
-}
-```
-__What it does:__ It repeats something while something is true.
